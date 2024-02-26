@@ -661,7 +661,7 @@ section {
 
 #services .icon {
   position: absolute;
-  left: -15px;
+  /*left: -15px;*/
   top: calc(50% - 32px);
 }
 
@@ -688,7 +688,7 @@ section {
 
 #services .description {
   font-size: 14px;
-  margin-left: 40px;
+  margin-left: 75px;
   line-height: 24px;
   margin-bottom: 0;
 }
