@@ -556,6 +556,14 @@ section {
   padding: 60px 0;
 }
 
+#about img {
+  border-radius: 12px;
+}
+
+#about .sombra {
+  box-shadow: 4px 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 #about .about-container .background {
   margin: 20px 0;
 }
